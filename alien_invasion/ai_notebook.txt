@@ -1,0 +1,9 @@
+Here I am going to type everything that I am learning about this project.
+
+In a game project, the first thing you need to do is create a background or a surface.
+That surface also needs to be able to get input.
+
+First you initialize the settings for the background, you initialize everything that
+you need and then you start the main loop where things actually happen.
+
+A smart thing to do is to make a separate setting file in which to edit.
